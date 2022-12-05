@@ -20,7 +20,7 @@ arr[i+1]=arr[i];
 
 arr[index]=value;
     n=n+1;
-    cout<<"**********after insertion********* "<<endl;
+    cout<<"-------after insertion------- "<<endl;
     for(int i=0;i<=n-1;i++){
         cout<<arr[i]<<" ";
     }
